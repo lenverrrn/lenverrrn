@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lenverrrn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @len_v3rrn.
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning js (no big deal)
+- 💞️ I’m looking to collaborate on (not sure yet)
+- 📫 How to reach me (can't)
 
 <!---
 lenverrrn/lenverrrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

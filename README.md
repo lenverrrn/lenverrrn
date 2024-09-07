@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @len_v3rrn.
+- 👋 Hi, I’m @lenvern
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning js (no big deal)
 - 💞️ I’m looking to collaborate on (not sure yet)

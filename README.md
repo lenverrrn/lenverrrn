@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lenvern
+- 👋 Hi, I’m lenvern, but you can call me Arthur.
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning js (no big deal)
 - 💞️ I’m looking to collaborate on (not sure yet)
